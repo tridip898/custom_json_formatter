@@ -1,0 +1,1 @@
+ E:\\MyProjects\\reunion_card_web\\.dart_tool\\flutter_build\\23f141d53b9b3c4803e422aacdfd5bad\\native_assets.yaml: 
